@@ -32,3 +32,4 @@ Travis CI | https://travis-ci.org | Berlin
 Uberspace | https://uberspace.de | Mainz
 virtualQ® | http://virtualq.io | Stuttgart
 Zweitag | https://www.zweitag.de | Münster
+pimentaGROUP | https://www.pimentagroup.de | Münster
