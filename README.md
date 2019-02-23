@@ -25,6 +25,7 @@ komoot | https://www.komoot.de | Potsdam
 LaterPay | https://www.laterpay.net | Munich
 Lingoda | https://www.lingoda.de | Berlin
 ownCloud | https://owncloud.com | Nuremberg
+pimentaGROUP | https://pimentagroup.de | Münster
 SocialHub | https://socialhub.io | Ingolstadt
 SPORT1 | http://www.sport1.de | Ismaning (Munich)
 SuSE | http://www.suse.com | Nuremberg
